@@ -1,5 +1,5 @@
 # Site settings
-title: PT
+title: PT.
 baseurl: "/ap"
 url: "https://nohyumin.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
